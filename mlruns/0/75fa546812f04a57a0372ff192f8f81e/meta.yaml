@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_dagshub/mlflow/mlruns/0/75fa546812f04a57a0372ff192f8f81e/artifacts
+end_time: 1695190565592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75fa546812f04a57a0372ff192f8f81e
+run_name: abrasive-asp-129
+run_uuid: 75fa546812f04a57a0372ff192f8f81e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695190561373
+status: 3
+tags: []
+user_id: anilkumar.maddikunta

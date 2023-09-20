@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_dagshub/mlflow/mlruns/0/6b65b686ba184b27bfa063b031409a28/artifacts
+end_time: 1695201152205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b65b686ba184b27bfa063b031409a28
+run_name: wistful-snipe-365
+run_uuid: 6b65b686ba184b27bfa063b031409a28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695201147635
+status: 3
+tags: []
+user_id: anilkumar.maddikunta

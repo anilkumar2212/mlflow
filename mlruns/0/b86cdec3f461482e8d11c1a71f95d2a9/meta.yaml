@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_dagshub/mlflow/mlruns/0/b86cdec3f461482e8d11c1a71f95d2a9/artifacts
+end_time: 1695200895414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b86cdec3f461482e8d11c1a71f95d2a9
+run_name: upbeat-skunk-168
+run_uuid: b86cdec3f461482e8d11c1a71f95d2a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695200890628
+status: 3
+tags: []
+user_id: anilkumar.maddikunta
